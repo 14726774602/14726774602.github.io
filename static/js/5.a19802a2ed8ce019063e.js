@@ -1,0 +1,2 @@
+webpackJsonp([5],{lRa1:function(e,n){},vjCe:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var a={render:function(){var e=this.$createElement;return(this._self._c||e)("div",[this._v("\n  留言板\n")])},staticRenderFns:[]};var r=t("VU/8")({name:"home",data:function(){return{}},props:{map:{}},methods:{},created:function(){},mounted:function(){}},a,!1,function(e){t("lRa1")},"data-v-3474bc44",null);n.default=r.exports}});
+//# sourceMappingURL=5.a19802a2ed8ce019063e.js.map
